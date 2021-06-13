@@ -1,0 +1,105 @@
+2021-06-13 14:37:19.671 +02:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.102\
+2021-06-13 14:37:23.993 +02:00 [INF] Initializing upgrade step Select an entrypoint
+2021-06-13 14:37:33.820 +02:00 [INF] Applying upgrade step Select an entrypoint
+2021-06-13 14:37:39.759 +02:00 [INF] Upgrade step Select an entrypoint applied successfully
+2021-06-13 14:37:41.483 +02:00 [INF] Initializing upgrade step Select project to upgrade
+2021-06-13 14:37:45.250 +02:00 [INF] Applying upgrade step Select project to upgrade
+2021-06-13 14:37:50.858 +02:00 [INF] Upgrade step Select project to upgrade applied successfully
+2021-06-13 14:37:52.042 +02:00 [INF] Initializing upgrade step Back up project
+2021-06-13 14:37:54.299 +02:00 [INF] Skipping upgrade step Back up project
+2021-06-13 14:37:54.300 +02:00 [INF] Upgrade step Back up project skipped
+2021-06-13 14:37:55.162 +02:00 [INF] Initializing upgrade step Convert project file to SDK style
+2021-06-13 14:38:07.394 +02:00 [INF] Applying upgrade step Convert project file to SDK style
+2021-06-13 14:38:07.397 +02:00 [INF] Converting project file format with try-convert, version 0.7.226301
+2021-06-13 14:38:09.087 +02:00 [INF] [try-convert] Conversion complete!
+2021-06-13 14:38:09.518 +02:00 [INF] Project file converted successfully! The project may require additional changes to build successfully against the new .NET target.
+2021-06-13 14:38:11.953 +02:00 [INF] Upgrade step Convert project file to SDK style applied successfully
+2021-06-13 14:38:12.881 +02:00 [INF] Initializing upgrade step Clean up NuGet package references
+2021-06-13 14:38:15.550 +02:00 [WRN] .NET Upgrade Assistant analyzer NuGet package reference cannot be added because the package cannot be found
+2021-06-13 14:38:15.558 +02:00 [INF] No package updates needed
+2021-06-13 14:38:15.560 +02:00 [INF] Initializing upgrade step Update TFM
+2021-06-13 14:38:15.573 +02:00 [INF] Initializing upgrade step Update NuGet Packages
+2021-06-13 14:38:17.271 +02:00 [WRN] .NET Upgrade Assistant analyzer NuGet package reference cannot be added because the package cannot be found
+2021-06-13 14:38:17.274 +02:00 [INF] No package updates needed
+2021-06-13 14:38:17.275 +02:00 [INF] Initializing upgrade step Add template files
+2021-06-13 14:38:17.283 +02:00 [INF] 0 expected template items needed
+2021-06-13 14:38:17.310 +02:00 [INF] Initializing upgrade step Update source code
+2021-06-13 14:38:19.011 +02:00 [INF] Initializing upgrade step Move to next project
+2021-06-13 14:38:22.682 +02:00 [INF] Applying upgrade step Move to next project
+2021-06-13 14:38:22.684 +02:00 [INF] Upgrade step Move to next project applied successfully
+2021-06-13 14:38:24.316 +02:00 [INF] Initializing upgrade step Select project to upgrade
+2021-06-13 14:38:29.722 +02:00 [INF] Applying upgrade step Select project to upgrade
+2021-06-13 14:38:31.394 +02:00 [INF] Upgrade step Select project to upgrade applied successfully
+2021-06-13 14:38:33.290 +02:00 [INF] Initializing upgrade step Back up project
+2021-06-13 14:38:35.450 +02:00 [INF] Skipping upgrade step Back up project
+2021-06-13 14:38:35.451 +02:00 [INF] Upgrade step Back up project skipped
+2021-06-13 14:38:36.034 +02:00 [INF] Initializing upgrade step Convert project file to SDK style
+2021-06-13 14:38:36.842 +02:00 [INF] Applying upgrade step Convert project file to SDK style
+2021-06-13 14:38:36.843 +02:00 [INF] Converting project file format with try-convert, version 0.7.226301
+2021-06-13 14:38:37.808 +02:00 [INF] [try-convert] Conversion complete!
+2021-06-13 14:38:38.103 +02:00 [INF] Project file converted successfully! The project may require additional changes to build successfully against the new .NET target.
+2021-06-13 14:38:40.093 +02:00 [INF] Upgrade step Convert project file to SDK style applied successfully
+2021-06-13 14:38:40.854 +02:00 [INF] Initializing upgrade step Clean up NuGet package references
+2021-06-13 14:38:42.518 +02:00 [WRN] .NET Upgrade Assistant analyzer NuGet package reference cannot be added because the package cannot be found
+2021-06-13 14:38:42.520 +02:00 [INF] No package updates needed
+2021-06-13 14:38:42.521 +02:00 [INF] Initializing upgrade step Update TFM
+2021-06-13 14:38:42.549 +02:00 [INF] Initializing upgrade step Update NuGet Packages
+2021-06-13 14:38:43.955 +02:00 [WRN] .NET Upgrade Assistant analyzer NuGet package reference cannot be added because the package cannot be found
+2021-06-13 14:38:43.958 +02:00 [INF] No package updates needed
+2021-06-13 14:38:43.958 +02:00 [INF] Initializing upgrade step Add template files
+2021-06-13 14:38:43.959 +02:00 [INF] 0 expected template items needed
+2021-06-13 14:38:43.981 +02:00 [INF] Initializing upgrade step Update source code
+2021-06-13 14:38:44.653 +02:00 [INF] Initializing upgrade step Move to next project
+2021-06-13 14:38:50.850 +02:00 [INF] Applying upgrade step Move to next project
+2021-06-13 14:38:50.851 +02:00 [INF] Upgrade step Move to next project applied successfully
+2021-06-13 14:38:51.709 +02:00 [INF] Initializing upgrade step Select project to upgrade
+2021-06-13 14:38:54.018 +02:00 [INF] Applying upgrade step Select project to upgrade
+2021-06-13 14:38:55.098 +02:00 [INF] Upgrade step Select project to upgrade applied successfully
+2021-06-13 14:38:55.946 +02:00 [INF] Initializing upgrade step Back up project
+2021-06-13 14:38:58.450 +02:00 [INF] Skipping upgrade step Back up project
+2021-06-13 14:38:58.451 +02:00 [INF] Upgrade step Back up project skipped
+2021-06-13 14:38:59.082 +02:00 [INF] Initializing upgrade step Convert project file to SDK style
+2021-06-13 14:39:01.394 +02:00 [INF] Applying upgrade step Convert project file to SDK style
+2021-06-13 14:39:01.395 +02:00 [INF] Converting project file format with try-convert, version 0.7.226301
+2021-06-13 14:39:02.286 +02:00 [INF] [try-convert] This project has an unrecognized custom import which may need reviewed after conversion: NuGet.targets
+2021-06-13 14:39:02.287 +02:00 [INF] [try-convert] This project has an unrecognized custom import which may need reviewed after conversion: Microsoft.Bcl.Build.targets
+2021-06-13 14:39:02.408 +02:00 [INF] [try-convert] Conversion complete!
+2021-06-13 14:39:02.728 +02:00 [INF] Project file converted successfully! The project may require additional changes to build successfully against the new .NET target.
+2021-06-13 14:39:04.846 +02:00 [INF] Upgrade step Convert project file to SDK style applied successfully
+2021-06-13 14:39:06.554 +02:00 [INF] Initializing upgrade step Clean up NuGet package references
+2021-06-13 14:39:08.757 +02:00 [INF] Marking package Microsoft.Bcl for removal because it appears to be a transitive dependency
+2021-06-13 14:39:08.766 +02:00 [INF] Marking package Microsoft.Net.Http for removal based on package mapping configuration HTTP packages
+2021-06-13 14:39:08.770 +02:00 [INF] Adding package System.Net.Http based on package mapping configuration HTTP packages
+2021-06-13 14:39:09.489 +02:00 [WRN] No version of HtmlAgilityPack found that supports ["netstandard1.0"]; leaving unchanged
+2021-06-13 14:39:10.061 +02:00 [WRN] No version of System.Net.Http found that supports ["netstandard1.0"]; leaving unchanged
+2021-06-13 14:39:10.065 +02:00 [WRN] .NET Upgrade Assistant analyzer NuGet package reference cannot be added because the package cannot be found
+2021-06-13 14:39:10.068 +02:00 [INF] Packages to be removed: Microsoft.Bcl, Version=1.1.10
+Microsoft.Net.Http, Version=2.2.29
+2021-06-13 14:39:10.071 +02:00 [INF] Packages to be added: System.Net.Http, Version=4.3.0
+2021-06-13 14:39:11.322 +02:00 [INF] Applying upgrade step Clean up NuGet package references
+2021-06-13 14:39:11.329 +02:00 [INF] Removing outdated package reference: Microsoft.Bcl, Version=1.1.10
+2021-06-13 14:39:11.331 +02:00 [INF] Removing outdated package reference: Microsoft.Net.Http, Version=2.2.29
+2021-06-13 14:39:11.334 +02:00 [INF] Adding package reference: System.Net.Http, Version=4.3.0
+2021-06-13 14:39:13.536 +02:00 [WRN] No version of HtmlAgilityPack found that supports ["netstandard1.0"]; leaving unchanged
+2021-06-13 14:39:13.569 +02:00 [WRN] No version of System.Net.Http found that supports ["netstandard1.0"]; leaving unchanged
+2021-06-13 14:39:13.573 +02:00 [WRN] .NET Upgrade Assistant analyzer NuGet package reference cannot be added because the package cannot be found
+2021-06-13 14:39:13.576 +02:00 [INF] Upgrade step Clean up NuGet package references applied successfully
+2021-06-13 14:39:14.306 +02:00 [INF] Initializing upgrade step Update TFM
+2021-06-13 14:39:14.387 +02:00 [INF] Initializing upgrade step Update NuGet Packages
+2021-06-13 14:39:16.605 +02:00 [WRN] No version of HtmlAgilityPack found that supports ["netstandard1.0"]; leaving unchanged
+2021-06-13 14:39:16.651 +02:00 [WRN] No version of System.Net.Http found that supports ["netstandard1.0"]; leaving unchanged
+2021-06-13 14:39:16.654 +02:00 [WRN] .NET Upgrade Assistant analyzer NuGet package reference cannot be added because the package cannot be found
+2021-06-13 14:39:16.656 +02:00 [INF] No package updates needed
+2021-06-13 14:39:16.657 +02:00 [INF] Initializing upgrade step Add template files
+2021-06-13 14:39:16.659 +02:00 [INF] 0 expected template items needed
+2021-06-13 14:39:16.681 +02:00 [INF] Initializing upgrade step Update source code
+2021-06-13 14:39:17.489 +02:00 [INF] Initializing upgrade step Move to next project
+2021-06-13 14:39:18.954 +02:00 [INF] Applying upgrade step Move to next project
+2021-06-13 14:39:18.956 +02:00 [INF] Upgrade step Move to next project applied successfully
+2021-06-13 14:39:19.949 +02:00 [INF] Initializing upgrade step Select project to upgrade
+2021-06-13 14:39:19.954 +02:00 [INF] No projects need upgraded for selected entrypoint
+2021-06-13 14:39:19.954 +02:00 [INF] Initializing upgrade step Finalize upgrade
+2021-06-13 14:39:23.562 +02:00 [INF] Applying upgrade step Finalize upgrade
+2021-06-13 14:39:23.563 +02:00 [INF] Upgrade step Finalize upgrade applied successfully
+2021-06-13 14:39:24.730 +02:00 [INF] Upgrade has completed. Please review any changes.
+2021-06-13 14:39:24.738 +02:00 [INF] No state to save
